@@ -1,0 +1,11 @@
+# DVT Utility (rapy)
+
+USB-to-I2C bridge as the I2C master
+
+# 20180817
+## add MacOS X support
+## move to .csh
+# 20180822
+## clearify the FTDI bridge glitch problem
+## (use lower OSC freq.)
+
